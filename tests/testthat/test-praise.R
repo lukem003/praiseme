@@ -6,3 +6,4 @@ test_that("test praise works", {
   expect_error(praise())
 })
 
+
