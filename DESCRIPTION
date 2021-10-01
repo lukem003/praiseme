@@ -1,0 +1,18 @@
+Package: praiseme
+Type: Package
+Title: Deliver Praise to Someone
+Version: 0.1.0
+Author: Luke Mawad
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: We all deserve a little encouragement sometime
+  to keep us going (Plus Ultra!). This package aim to deliver
+  a little praise whenever you need them.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: 
+    glue
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
